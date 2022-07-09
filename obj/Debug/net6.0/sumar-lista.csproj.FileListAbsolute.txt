@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\bin\Debug\net6.0\sumar-lista.exe
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\bin\Debug\net6.0\sumar-lista.deps.json
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\bin\Debug\net6.0\sumar-lista.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\bin\Debug\net6.0\sumar-lista.dll
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\bin\Debug\net6.0\sumar-lista.pdb
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.dll
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\refint\sumar-lista.dll
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.pdb
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\sumar-lista.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\talleres\09-sumar listas\sumar-lista\obj\Debug\net6.0\ref\sumar-lista.dll
